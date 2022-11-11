@@ -8,9 +8,17 @@ You can view this project [here](https://gym-exercise-react-app.netlify.app/).
 
 ## Built using:
 
-- React
-- MUI / Material
-- Rapid API
+Front end:
+
+
+-  [React](https://reactjs.org/)
+- [MUI / Material](https://mui.com/)
+- [Rapid API](https://rapidapi.com)
+
+
+Deployment:
+
+* [Netlify](https://www.netlify.com)
 
 ## Setup
 
