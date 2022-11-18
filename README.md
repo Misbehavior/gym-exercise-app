@@ -11,9 +11,9 @@ You can view this project [here](https://gym-exercise-react-app.netlify.app/).
 Front end:
 
 
--  [React](https://reactjs.org/)
+-  [React.js](https://reactjs.org/)
 - [MUI / Material](https://mui.com/)
-- [Rapid API](https://rapidapi.com)
+- [Rapid APIs](https://rapidapi.com)
 
 
 Deployment:
