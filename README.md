@@ -1,4 +1,4 @@
-# Gym Exercise Website
+# Exercise Website
 
 You can view this project [here](https://gym-exercise-react-app.netlify.app/).
 
